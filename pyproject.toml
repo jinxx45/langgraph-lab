@@ -1,0 +1,17 @@
+[project]
+name = "langgraph-lab"
+version = "0.1.0"
+description = "Learning LangGraph one small graph at a time, with tests and evals."
+requires-python = ">=3.12"
+dependencies = [
+    "langgraph>=1.0",
+    "langchain-ollama>=1.0",
+    "pydantic>=2",
+]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
