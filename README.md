@@ -12,7 +12,7 @@ on [Ollama](https://ollama.com).
 | 02 | Support ticket router  | Branching, structured output, retries      | ✅     |
 | 03 | Research helper        | Tools, reducers, the agent loop            | ✅     |
 | 04 | Email drafter          | Human-in-the-loop, checkpoints, threads    | ✅     |
-| 05 | Chat that remembers    | Persistence and long-term memory           | ⏳     |
+| 05 | Chat that remembers    | Long-term memory (Store), namespaces       | ✅     |
 
 ## How each lab works
 
