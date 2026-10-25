@@ -9,3 +9,4 @@ evals/results/
 .idea/
 Thumbs.db
 .DS_Store
+data/
