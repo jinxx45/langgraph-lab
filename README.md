@@ -9,7 +9,7 @@ on [Ollama](https://ollama.com).
 | #  | Lab                    | Concept                                    | Status |
 |----|------------------------|--------------------------------------------|--------|
 | 01 | Joke rater             | State, nodes, edges, loops, context        | ✅     |
-| 02 | Support ticket router  | Conditional routing                        | ⏳     |
+| 02 | Support ticket router  | Branching, structured output, retries      | ✅     |
 | 03 | Research helper        | Tools and the agent loop                   | ⏳     |
 | 04 | Email drafter          | Human-in-the-loop, checkpoints             | ⏳     |
 | 05 | Chat that remembers    | Persistence and long-term memory           | ⏳     |

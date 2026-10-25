@@ -1,0 +1,26 @@
+{"id": 1, "ticket": "I was charged Rs 499 twice for my monthly plan this morning. Please refund one of them.", "category": "billing", "urgency": "high"}
+{"id": 2, "ticket": "Can I get a GST invoice for my last three payments? Need it for office reimbursement.", "category": "billing", "urgency": "low"}
+{"id": 3, "ticket": "My UPI payment failed but the money was debited from my bank account. It's been 3 days.", "category": "billing", "urgency": "high"}
+{"id": 4, "ticket": "Why did my subscription price go up from Rs 199 to Rs 249 this month?", "category": "billing", "urgency": "low"}
+{"id": 5, "ticket": "I cancelled my plan last week but I was still charged today.", "category": "billing", "urgency": "high"}
+{"id": 6, "ticket": "Do you offer a discount if I pay yearly instead of monthly?", "category": "billing", "urgency": "low"}
+{"id": 7, "ticket": "The app crashes every time I open the camera to scan a QR code. Using a Redmi Note 12.", "category": "technical", "urgency": "low"}
+{"id": 8, "ticket": "Getting 'Error 503 Service Unavailable' on the website since 10 am. Nobody in our office can use it.", "category": "technical", "urgency": "high"}
+{"id": 9, "ticket": "Search results take almost 30 seconds to load, it used to be instant.", "category": "technical", "urgency": "low"}
+{"id": 10, "ticket": "Notifications stopped working after the latest update on my iPhone.", "category": "technical", "urgency": "low"}
+{"id": 11, "ticket": "The export to Excel button downloads an empty file.", "category": "technical", "urgency": "low"}
+{"id": 12, "ticket": "Your API is returning 500 errors for every request and our checkout is down. Customers can't pay!", "category": "technical", "urgency": "high"}
+{"id": 13, "ticket": "I forgot my password and the reset email never arrives. I can't get into my account.", "category": "account", "urgency": "high"}
+{"id": 14, "ticket": "I'm not receiving the OTP on my new number, can't log in at all.", "category": "account", "urgency": "high"}
+{"id": 15, "ticket": "How do I change the email address on my profile?", "category": "account", "urgency": "low"}
+{"id": 16, "ticket": "Please delete my account and all my data.", "category": "account", "urgency": "low"}
+{"id": 17, "ticket": "My KYC verification has been pending for 5 days. What documents are missing?", "category": "account", "urgency": "low"}
+{"id": 18, "ticket": "Someone logged into my account from another city. I didn't do this!", "category": "account", "urgency": "high"}
+{"id": 19, "ticket": "Do you have a dark mode?", "category": "general", "urgency": "low"}
+{"id": 20, "ticket": "What are your customer support hours on weekends?", "category": "general", "urgency": "low"}
+{"id": 21, "ticket": "Just wanted to say the new design looks great, well done team.", "category": "general", "urgency": "low"}
+{"id": 22, "ticket": "Is a Tamil language option planned?", "category": "general", "urgency": "low"}
+{"id": 23, "ticket": "Can I use the app outside India when I travel?", "category": "general", "urgency": "low"}
+{"id": 24, "ticket": "Do you have a referral program?", "category": "general", "urgency": "low"}
+{"id": 25, "ticket": "I paid for premium but the premium features are still locked, even after logging in again.", "category": "billing", "urgency": "low", "note": "ambiguous: billing or technical"}
+{"id": 26, "ticket": "The app logs me out every few minutes, really annoying.", "category": "technical", "urgency": "low", "note": "ambiguous: technical or account"}
